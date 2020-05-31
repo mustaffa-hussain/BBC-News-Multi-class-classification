@@ -10,3 +10,5 @@ The dataset is broken into 1490 records for training and 735 for testing. The go
 The competition is evaluated using Accuracy as a metric.
 
 Following blog has good information on how to look at the problem. https://cloud.google.com/blog/products/gcp/problem-solving-with-ml-automatic-document-classification
+
+The link to the competetion is https://www.kaggle.com/c/learn-ai-bbc/overview
